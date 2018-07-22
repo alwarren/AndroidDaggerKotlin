@@ -1,0 +1,15 @@
+Dagger:
+
+Important: follow this order
+1. create modules
+2. create builder
+3. create components
+4. rebuild project
+4. change MainActivity to subclass DaggerAppCompatActivity
+5. create Application class
+6. rebuild project
+8. add android:name=".Application" to application in manifest
+9. rebuild project
+
+Intellij
+Quick Search - Ctrl-Shift-N
